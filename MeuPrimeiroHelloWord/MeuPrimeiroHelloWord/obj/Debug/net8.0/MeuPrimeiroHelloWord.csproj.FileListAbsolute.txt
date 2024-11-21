@@ -1,0 +1,14 @@
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\bin\Debug\net8.0\MeuPrimeiroHelloWord.exe
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\bin\Debug\net8.0\MeuPrimeiroHelloWord.deps.json
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\bin\Debug\net8.0\MeuPrimeiroHelloWord.runtimeconfig.json
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\bin\Debug\net8.0\MeuPrimeiroHelloWord.dll
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\bin\Debug\net8.0\MeuPrimeiroHelloWord.pdb
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\MeuPrimeiroHelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\MeuPrimeiroHelloWord.AssemblyInfoInputs.cache
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\MeuPrimeiroHelloWord.AssemblyInfo.cs
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\MeuPrimeiroHelloWord.csproj.CoreCompileInputs.cache
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\MeuPrimeiroHelloWord.dll
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\refint\MeuPrimeiroHelloWord.dll
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\MeuPrimeiroHelloWord.pdb
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\MeuPrimeiroHelloWord.genruntimeconfig.cache
+C:\CSharp_Rocketseat\MeuPrimeiroHelloWord\MeuPrimeiroHelloWord\obj\Debug\net8.0\ref\MeuPrimeiroHelloWord.dll

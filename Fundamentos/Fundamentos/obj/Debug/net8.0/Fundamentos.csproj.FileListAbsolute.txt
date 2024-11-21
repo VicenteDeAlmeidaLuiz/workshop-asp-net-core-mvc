@@ -1,0 +1,14 @@
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.exe
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.deps.json
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.runtimeconfig.json
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.dll
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.pdb
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfoInputs.cache
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfo.cs
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.dll
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\refint\Fundamentos.dll
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.pdb
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.genruntimeconfig.cache
+C:\CSharp_Rocketseat\Fundamentos\Fundamentos\obj\Debug\net8.0\ref\Fundamentos.dll
